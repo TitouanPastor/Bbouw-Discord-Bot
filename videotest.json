@@ -1,0 +1,20 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "Nm49KWX_AU2TDywebgXvslUhgW0",
+    "nextPageToken": "CAEQAA",
+    "regionCode": "FR",
+    "pageInfo": {
+        "totalResults": 3,
+        "resultsPerPage": 1
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OkKJWcEOg6pZzBE2nR5gDY2okgo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Vo_NEoVglUw"
+            }
+        }
+    ]
+}
